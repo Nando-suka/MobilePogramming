@@ -1,0 +1,54 @@
+# File dan direktori sementara Android Studio
+*.iml
+.gradle/
+local.properties
+.idea/
+.DS_Store
+build/
+captures/
+externalNativeBuild/
+.cxx/
+
+# File konfigurasi pengguna
+*.jks
+*.keystore
+
+# File sementara dan log
+*.log
+*.log.*
+*.bak
+
+# File yang dihasilkan oleh proses build
+*.apk
+*.ap_
+*.aab
+*.dex
+*.class
+*.jar
+*.war
+*.ear
+
+# File cache Gradle
+.gradle/
+.gradle-cache/
+gradlew
+gradlew.bat
+
+# File output proguard
+proguard-rules.pro
+proguard/
+
+# File debugging
+*.swp
+*~.nib
+
+# Direktori untuk file sementara lainnya
+bin/
+gen/
+out/
+release/
+debug/
+
+# File konfigurasi lint
+lint.xml
+lint/
